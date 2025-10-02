@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou apaixonado por tecnologia, música e jogos.  
+Fâ de tecnologia, música e jogos.  
 Atualmente finalizo minha graduação em **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** na **Universidade Integrado**.  
 
 Tenho como objetivo criar soluções criativas e funcionais que **agreguem valor e melhorem o dia a dia das pessoas**.
