@@ -27,12 +27,9 @@ Tenho como objetivo criar soluções criativas e funcionais que **agreguem valor
 ---
 
 ### 📊 Estatísticas
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=samuelcney&show_icons=true&theme=chartreuse-dark&locale=pt-br" />
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcney&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+| ![Stats](https://github-readme-stats.vercel.app/api?username=samuelcney&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br) <br/><br/> ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelcney&theme=react&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcney&theme=react&layout=donut&custom_title=Tecnologias&langs_count=9) |
+| --- | --- |
 
 ---
 
