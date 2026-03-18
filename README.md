@@ -5,8 +5,7 @@
 Amante de tecnologia, música e jogos.  
 Graduação em **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** na **Universidade Integrado** 
 
-Cursando:
-Mestrado em Ciência da Computação - Engenharia de Software;
+Atualmente cursando **Mestrado em Ciência da Computação na linha de Engenharia de Software na UTFPR**
 
 ---
 
