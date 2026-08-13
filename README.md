@@ -1,4 +1,4 @@
-# 👨‍💻 Samuel Costa Ney
+# Samuel Costa Ney
 
 **`Desenvolvedor FullStack`**
 
@@ -28,7 +28,7 @@ Atualmente cursando **Mestrado em Ciência da Computação na linha de Engenhari
 
 ### 📊 Estatísticas
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=samuelcney&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br) <br/><br/> ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelcney&theme=react&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcney&theme=react&layout=donut&custom_title=Tecnologias&langs_count=9) |
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=samuelcney&custom_title=stats&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=samuelcney&custom_title=stats&show_icons=true&include_all_commits=true&theme=github_dark) <br/><br/> | [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=samuelcney&layout=donut&langs_count=6&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=samuelcney&layout=donut&langs_count=6&theme=github_dark) |
 | --- | --- |
 
 ---
